@@ -2,8 +2,9 @@
 ## Introduction and brief description
 The natural progression in learning ROS2 after completing the mini projects in 'ROS2_others_project'. In this project, I wrote a Topic that utilized a pre-existing interface. A Service was also added To facilitate the integration of various data transfer solutions in ROS2. Appropriate parameters were introduced to enhance project scalability. Naturally, Launch Files were implemented as well (more complex ones can be found in the 'robots_spam' repository within 'ROS2_other_projects'). Completing this mini project instilled excellent coding practices, making it much easier to scale future projects.
 
-A more complex project in another repository, 'ROS2_follow_turtle_robot'.
-
+# Other projects
+- [Turtle_killer](https://github.com/Mateoswiatek/ROS2_follow_turtle_robot) - The most **complex completed** project in *ROS2*.
+- [collection of projects](https://github.com/Mateoswiatek/ROS2_other_small_projects)
 ## Technologies Used
 
 Utilized Features:
